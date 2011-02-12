@@ -1,0 +1,7 @@
+1 1	operation 	">"
+1 3	operation 	"<"
+1 5	operation 	">="
+1 8	operation 	"<="
+1 11	operation 	":="
+1 14	separator 	":"
+1 16	separator 	";"

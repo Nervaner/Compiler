@@ -1,0 +1,4 @@
+2 1	identifier	"ttt"
+2 5	operation 	"-"
+2 7	integer   	55
+2 9	separator 	";"

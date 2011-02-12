@@ -1,0 +1,5 @@
+1 1	double    	0.0001
+1 7	double    	1.2e+011
+1 14	double    	120
+1 20	double    	1350
+(1,27) "12e" Incorrect real literal
